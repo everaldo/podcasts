@@ -15,7 +15,13 @@
 
 ## via prof. Adolfo Neto
 
-[Anticast](anticast.com.br)
+[Elixir Fountain](elixirfountain.com): A podcast that discusses the Elixir programming language. 
 
-[Revisionist History](http://revisionisthistory.com)
+[Software Engineering Radio](se-radio.net): The podcast for professional software developers. 
+
+[Anticast](anticast.com.br): Brazilian podcast that discusses many different topics, from politics to TV series.
+
+[Revisionist History](http://revisionisthistory.com): A storytelling style podcast created by Malcom Gladwell. "Every episode re-examines something from the past—an event, a person, an idea, even a song—and asks whether we got it right the first time. From Panoply Media. Because sometimes the past deserves a second chance."
+
+ 
 
