@@ -19,3 +19,10 @@
 
 [Revisionist History](http://revisionisthistory.com)
 
+## Contribuições do Vinicius Brand
+
+[Coemergência](http://www.coemergencia.com.br/) - Temas existenciais, como por exemplo: preparação para a velhice e a morte; limites e questionamentos de paradigmas e narrativas; espiritualidade, compaixão, propósito de viver e de fazer as coisas, etc. 
+
+[Boletim do Fim do Mundo](http://www.fluxo.net/boletim-fim-do-mundo) - Comentários do Bruno Torturra, direto do Bolsonaristão
+
+[Foro de Teresina](https://piaui.folha.uol.com.br/radio-piaui/foro-de-teresina/) - Comentários diários da revista piauí (me foi indicado, mas não ouvi ainda)
