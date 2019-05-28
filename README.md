@@ -15,7 +15,18 @@
 
 ## via prof. Adolfo Neto
 
-[Anticast](anticast.com.br)
+[Elixir Fountain](elixirfountain.com): A podcast that discusses the Elixir programming language. 
 
-[Revisionist History](http://revisionisthistory.com)
+[Anticast](anticast.com.br): Brazilian podcast that discusses many different topics, from politics to TV series.
 
+[Revisionist History](http://revisionisthistory.com): A storytelling style podcast created by Malcom Gladwell. "Every episode re-examines something from the past—an event, a person, an idea, even a song—and asks whether we got it right the first time. From Panoply Media. Because sometimes the past deserves a second chance."
+
+ 
+
+## Contribuições do Vinicius Brand
+
+[Coemergência](http://www.coemergencia.com.br/) - Temas existenciais, como por exemplo: preparação para a velhice e a morte; limites e questionamentos de paradigmas e narrativas; espiritualidade, compaixão, propósito de viver e de fazer as coisas, etc. 
+
+[Boletim do Fim do Mundo](http://www.fluxo.net/boletim-fim-do-mundo) - Comentários do Bruno Torturra, direto do Bolsonaristão (política)
+
+[Foro de Teresina](https://piaui.folha.uol.com.br/radio-piaui/foro-de-teresina/) - Comentários diários da revista piauí (me foi indicado, mas não ouvi ainda - política)
